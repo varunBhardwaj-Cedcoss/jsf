@@ -1,0 +1,15 @@
+.cen{
+    overflow: hidden;
+    width: 37%;
+    margin-top:10%;
+    margin-left:30%;
+}
+input{
+    float: right;
+
+}
+button{
+    
+    padding: 6px 15px;
+    border: 1px solid grey; 
+}
